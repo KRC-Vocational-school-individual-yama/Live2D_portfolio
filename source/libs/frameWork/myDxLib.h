@@ -2,7 +2,7 @@
 
 #include<DxLib.h>
 #include<cassert>
-//#include<string>
+#include<string>
 //#include<vector>
 //#include<unordered_map>
 //#include<algorithm>
