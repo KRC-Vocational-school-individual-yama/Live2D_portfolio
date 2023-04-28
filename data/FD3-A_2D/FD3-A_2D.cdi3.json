@@ -1,0 +1,262 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼　開閉"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左眼　笑顔"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼　開閉"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右眼　笑顔"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉　上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "体の回転　X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "体の回転　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "体の回転　Z"
+		},
+		{
+			"Id": "ParamArmL",
+			"GroupId": "",
+			"Name": "左腕"
+		},
+		{
+			"Id": "ParamArmR",
+			"GroupId": "",
+			"Name": "右腕"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "髪揺れ　前"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "髪揺れ　横"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "髪揺れ　後ろ"
+		},
+		{
+			"Id": "kurai",
+			"GroupId": "",
+			"Name": "kurai"
+		},
+		{
+			"Id": "komarimayu",
+			"GroupId": "",
+			"Name": "komarimayu"
+		},
+		{
+			"Id": "tere",
+			"GroupId": "",
+			"Name": "tere"
+		},
+		{
+			"Id": "heart",
+			"GroupId": "",
+			"Name": "heart"
+		},
+		{
+			"Id": "namida",
+			"GroupId": "",
+			"Name": "namida"
+		},
+		{
+			"Id": "highlight",
+			"GroupId": "",
+			"Name": "highlight"
+		},
+		{
+			"Id": "heguti",
+			"GroupId": "",
+			"Name": "heguti"
+		},
+		{
+			"Id": "hukuyure",
+			"GroupId": "",
+			"Name": "hukuyure"
+		},
+		{
+			"Id": "hukuyure2",
+			"GroupId": "",
+			"Name": "hukuyure2"
+		},
+		{
+			"Id": "maegamiyure2",
+			"GroupId": "",
+			"Name": "maegamiyure2"
+		},
+		{
+			"Id": "maegamiyure3",
+			"GroupId": "",
+			"Name": "maegamiyure3"
+		},
+		{
+			"Id": "kamiyure1",
+			"GroupId": "",
+			"Name": "kamiyure1"
+		},
+		{
+			"Id": "maegamiyure4",
+			"GroupId": "",
+			"Name": "maegamiyure4"
+		},
+		{
+			"Id": "ahoge",
+			"GroupId": "",
+			"Name": "ahoge"
+		},
+		{
+			"Id": "yoko",
+			"GroupId": "",
+			"Name": "yoko"
+		},
+		{
+			"Id": "ushiro",
+			"GroupId": "",
+			"Name": "ushiro"
+		},
+		{
+			"Id": "migimeyure",
+			"GroupId": "",
+			"Name": "migimeyure"
+		},
+		{
+			"Id": "hidarimeyure",
+			"GroupId": "",
+			"Name": "hidarimeyure"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part01Body",
+			"Name": "体"
+		},
+		{
+			"Id": "Part01Neck",
+			"Name": "首"
+		},
+		{
+			"Id": "Part01HairBack001",
+			"Name": "後ろ髪"
+		},
+		{
+			"Id": "Part01HairSide001",
+			"Name": "横髪"
+		},
+		{
+			"Id": "Part01HairFront001",
+			"Name": "前髪"
+		},
+		{
+			"Id": "Part01Ear001",
+			"Name": "耳"
+		},
+		{
+			"Id": "Part01Nose001",
+			"Name": "鼻"
+		},
+		{
+			"Id": "Part01Mouth001",
+			"Name": "口"
+		},
+		{
+			"Id": "Part01Brow001",
+			"Name": "まゆ毛"
+		},
+		{
+			"Id": "Part01EyeBall001",
+			"Name": "目玉"
+		},
+		{
+			"Id": "Part01Eye001",
+			"Name": "目"
+		},
+		{
+			"Id": "Part01Face001",
+			"Name": "顔"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		]
+	]
+}

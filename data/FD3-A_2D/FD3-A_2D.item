@@ -1,0 +1,91 @@
+{
+   "AnimationRetargetingConfig" : {
+      "enabled" : true,
+      "mappings" : null
+   },
+   "AnimationStandard" : "Live2D_4_0",
+   "Attachments" : null,
+   "CameraSettings" : {
+      "CameraBone" : "Camera",
+      "FOV" : 15,
+      "LookAtBone" : "BipHead",
+      "OffsetPos" : [ 0.0, 0.0, 2.9700000286102295 ],
+      "OffsetRot" : [ -0.0, 0.0, -0.0 ],
+      "ResetType" : 2
+   },
+   "CubismTextureHeight" : 2048,
+   "CubismTextureWidth" : 2048,
+   "CubismTextureWrap" : "Clamp",
+   "CustomizationName" : "",
+   "CustomizationOptions" : null,
+   "CustomizationPreference" : {
+      "CustomBoundingBox" : {
+         "Max" : [ 0.0, 0.0, 0.0 ],
+         "Min" : [ 0.0, 0.0, 0.0 ]
+      },
+      "CustomizationSuggestedColors" : null,
+      "HasBoundingBox" : true,
+      "HasCustomBoundingBox" : false,
+      "UsingApplyOnSpawn" : false
+   },
+   "Description" : "モデル：FD3-A タイプ：全身　物理演算：有　チェンジキー：z,x,c,v,Z,X,C　笑顔：口の変形依存　制作：銅炳詞狼(@HEiRO_NextMirAI)",
+   "FriendlyName" : "Live2D FD3-A_2D",
+   "IsPersona" : false,
+   "ItemName" : "FD3-A_2D",
+   "LeapMotionBonesRemapping" : null,
+   "LeapMotionEnabled" : true,
+   "LeapMotionHiddenOffset" : [ 0.0, 0.0, 0.0 ],
+   "Live2DAnimazeVersion" : 1,
+   "Live2DPosition" : [ 0.0, 0.0 ],
+   "Live2DScale" : [ 1.0, 1.0 ],
+   "LoadCustomizations" : false,
+   "ModelPath" : "FD3-A_2D.model3.json",
+   "PerceptionNeuronRetargetingConfig" : {
+      "enabled" : true,
+      "mappings" : null
+   },
+   "Position" : [ -0.029999999329447746, -0.54000002145767212, 0.0 ],
+   "PropTags" : [ "MISSING_TAG" ],
+   "RetargetingOverrides" : null,
+   "Rotation" : [ -0.0, 0.0, -0.0 ],
+   "Scale" : [ 1.0, 1.0, 1.0 ],
+   "SourceFileMetaInfo" : null,
+   "SpecialPoses" : [
+      {
+         "Animation" : "highlight",
+         "FriendlyName" : "highlight",
+         "SwitchTime" : 0.05000000074505806
+      },
+      {
+         "Animation" : "heart",
+         "FriendlyName" : "heart",
+         "SwitchTime" : 0.05000000074505806
+      },
+      {
+         "Animation" : "namida",
+         "FriendlyName" : "namida",
+         "SwitchTime" : 0.05000000074505806
+      },
+      {
+         "Animation" : "heguti",
+         "FriendlyName" : "heguti",
+         "SwitchTime" : 0.05000000074505806
+      },
+      {
+         "Animation" : "kurai",
+         "FriendlyName" : "kurai",
+         "SwitchTime" : 0.05000000074505806
+      },
+      {
+         "Animation" : "tere",
+         "FriendlyName" : "tere",
+         "SwitchTime" : 0.05000000074505806
+      },
+      {
+         "Animation" : "komarimayu",
+         "FriendlyName" : "komarimayu",
+         "SwitchTime" : 0.05000000074505806
+      }
+   ],
+   "Type" : "Avatar2D"
+}

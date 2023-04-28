@@ -1,0 +1,140 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamGhostONOFF",
+			"GroupId": "",
+			"Name": "Ghost ONOFF"
+		},
+		{
+			"Id": "PhyAngleGhostX",
+			"GroupId": "",
+			"Name": "Angle Ghost X"
+		},
+		{
+			"Id": "PhyAngleGhostY",
+			"GroupId": "",
+			"Name": "Angle Ghost Y"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "EyeMode"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "MouthForm"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "MouthOpenY"
+		},
+		{
+			"Id": "Param1",
+			"GroupId": "",
+			"Name": "======================="
+		},
+		{
+			"Id": "ParamExpCry",
+			"GroupId": "",
+			"Name": "ExpCry"
+		},
+		{
+			"Id": "ParamExpAngry",
+			"GroupId": "",
+			"Name": "ExpAngry"
+		},
+		{
+			"Id": "ParamExpSurprise",
+			"GroupId": "",
+			"Name": "ExpSurprise"
+		},
+		{
+			"Id": "ParamExpHeart",
+			"GroupId": "",
+			"Name": "ExpHeart"
+		},
+		{
+			"Id": "ParamBlush",
+			"GroupId": "",
+			"Name": "Blush"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "======================="
+		},
+		{
+			"Id": "PhyGhostX1",
+			"GroupId": "",
+			"Name": "Ghost_X1"
+		},
+		{
+			"Id": "PhyGhostX2",
+			"GroupId": "",
+			"Name": "Ghost_X2"
+		},
+		{
+			"Id": "PhyGhostX3",
+			"GroupId": "",
+			"Name": "Ghost_X3"
+		},
+		{
+			"Id": "PhyGhostY1",
+			"GroupId": "",
+			"Name": "Ghost_Y1"
+		},
+		{
+			"Id": "PhyGhostY2",
+			"GroupId": "",
+			"Name": "Ghost_Y2"
+		},
+		{
+			"Id": "PhyGhostY3",
+			"GroupId": "",
+			"Name": "Ghost_Y3"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "Breath"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part2",
+			"Name": "Ghost_item.psd"
+		},
+		{
+			"Id": "Part",
+			"Name": "Root Part"
+		},
+		{
+			"Id": "exp_customizable",
+			"Name": "exp_customizable"
+		},
+		{
+			"Id": "exp",
+			"Name": "exp"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		]
+	]
+}

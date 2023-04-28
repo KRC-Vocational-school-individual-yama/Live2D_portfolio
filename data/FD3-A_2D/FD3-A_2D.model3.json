@@ -1,0 +1,21 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "FD3-A_2D.moc3",
+		"Textures": [
+			"FD3-A_2D.4096/texture_00.png",
+			"FD3-A_2D.4096/texture_01.png",
+			"FD3-A_2D.4096/texture_02.png",
+			"FD3-A_2D.4096/texture_03.png"
+		],
+		"Physics": "FD3-A_2D.physics3.json",
+		"DisplayInfo": "FD3-A_2D.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
