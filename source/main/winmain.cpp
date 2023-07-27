@@ -20,7 +20,7 @@ void LoadInit() {
 	//SetWaitVSyncFlag(FALSE)							;//垂直同期信号待ち
 	//SetWindowIconID(IDI_ICON1);
 
-	Live2D_SetCubism4CoreDLLPath("Live2D_dll/x86/Live2DCubismCore.dll");//Live2Dを扱うためのパス指定
+	Live2D_SetCubism4CoreDLLPath("Library/Live2D_dll/x86/Live2DCubismCore.dll");//Live2Dを扱うためのパス指定
 }
 
 //プログラムは WinMain から始まります
